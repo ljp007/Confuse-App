@@ -124,11 +124,11 @@ style="width:6.27667in;height:3.36833in" />
 >
 > **2.1.2** **马甲包制作注意事项**
 >
-> 二进制不同 应用名称，图标，包名，工程名，打包电脑，代码，
+> 二进制不同 应用名称，图标，包名，工程名，打包电脑，代码，
 >
 > 静态资源等的修改。
 >
-> 差异化 整体 UI，产品功能，页面布局等的修改
+> 差异化 整体 UI，产品功能，页面布局等的修改
 >
 > **2.1.3** **AB** **面** **APP** **类型的马甲包**
 
@@ -177,31 +177,31 @@ style="width:6.915in;height:1.03833in" />
 >
 > **3.1** **非代码工程改造的注意事项**
 >
-> 开发者帐号：两个马甲包不要关联到同一个开发者帐号的信息；
+> 开发者帐号：两个马甲包不要关联到同一个开发者帐号的信息；
 >
 > 比如打包时关联。
 >
-> 打包电脑：有条件的最好用不同的 MAC 来打包（每台 MAC 上最
+> 打包电脑：有条件的最好用不同的 MAC 来打包（每台 MAC 上最
 >
 > 好打包马甲包不要超过 5 个）
 >
-> 上传 IP：上传马甲包时，IP 不要跟其他马甲包的 IP 相同；
+> 上传 IP：上传马甲包时，IP 不要跟其他马甲包的 IP 相同；
 >
-> 材料相似：App Store Connect 后台材料如宣传图，ICON，版权
+> 材料相似：App Store Connect 后台材料如宣传图，ICON，版权
 >
 > 人不要出现相同；
 >
-> 改 App 名字；
+> 改 App 名字；
 >
-> 修改素材及 UI 色调等，例如修改 icon，修改主色调；
+> 修改素材及 UI 色调等，例如修改 icon，修改主色调；
 >
-> 修改功能界面等，可改功能可做小开关；
+> 修改功能界面等，可改功能可做小开关；
 >
 > **3.2** **代码工程混淆改造**
 >
 > **3.2.1** **现有工具代码混淆**
 >
-> **Confuse**（https://github.com/520coding/confuse）是一款[混](https://cloud.tencent.com/developer/tools/blog-entry?target=https://github.com/520coding/confuse&source=article&objectId=1845220)
+> **Confuse**（https://github.com/520coding/confuse）是一款[混](https://cloud.tencent.com/developer/tools/blog-entry?target=https://github.com/520coding/confuse&source=article&objectId=1845220)
 >
 > 淆工具，尽可能模拟人工开发，仿照 Xcode 部分功能，避免机核
 >
@@ -211,7 +211,7 @@ style="width:6.915in;height:1.03833in" />
 >
 > 黑名单没有白名单的原因。
 >
-> **ZFJObsLib(https://github.com/zfjsyqk/ZFJObsLib?tab=read**
+> **ZFJObsLib(https://github.com/zfjsyqk/ZFJObsLib?tab=read**
 >
 > **me-ov-file)** **ZFJ** **代码混淆软件**
 >
@@ -244,13 +244,13 @@ style="width:6.04333in;height:8.76667in" />
 >
 > 如下：
 >
-> 重构工程项目底层框架
+> 重构工程项目底层框架
 >
-> 重写业务层代码
+> 重写业务层代码
 >
-> UI 功能界面翻新
+> UI 功能界面翻新
 >
-> 美术资源界面换成新的一套等等
+> 美术资源界面换成新的一套等等
 >
 > **四、结束**
 >
