@@ -1,12 +1,11 @@
-<img src="./gdajgsk0.png"
-style="width:6.74167in;height:3.57667in" />
 
 > **iOS** **APP** **上架** **和** **马甲** **AB** **包**
 >
 > **一、iOS** **APP** **上架整体流程**
 >
 > **1.1** **iOS** **App** **上架整体流程图如下**
->
+<img src="./gdajgsk0.png"
+style="width:6.74167in;height:3.57667in" />
 > **1.2** **申请开发者账号**
 >
 > **申请账号的设备** **Mac** **或** **iPhone**
